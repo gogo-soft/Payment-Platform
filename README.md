@@ -72,4 +72,3 @@ Each doc follows the same structure:
 ## Author
 
 Ray Li — Senior Software Engineer, 15+ years building financial transaction systems.  
-AWS Certified DevOps Engineer – Professional.
